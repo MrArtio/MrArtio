@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 [![wakatime](https://wakatime.com/badge/user/c87b4f82-d14c-4735-bf74-da24e9289afa.svg)](https://wakatime.com/@c87b4f82-d14c-4735-bf74-da24e9289afa)
-[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/WakaTime)
-[![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+[![twitter](https://img.shields.io/twitter/follow/Mr_Artio?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/Mr_Artio)
+[![github](https://img.shields.io/github/followers/MrArtio?logo=github&style=plastic)](https://github.com/MrArtio?tab=followers)
 
 - 💬 Ask me about Go, Python, Java, Html, CSS and js.
 - 📫 How to reach me: [@Mr_Artio](https://twitter.com/Mr_Artio)
