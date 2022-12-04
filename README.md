@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![wakatime](https://wakatime.com/badge/user/c87b4f82-d14c-4735-bf74-da24e9289afa.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 [![twitter](https://img.shields.io/twitter/follow/Mr_Artio?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/Mr_Artio)
 [![github](https://img.shields.io/github/followers/MrArtio?logo=github&style=plastic)](https://github.com/MrArtio?tab=followers)
 
