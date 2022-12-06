@@ -4,7 +4,7 @@
 [![twitter](https://img.shields.io/twitter/follow/Mr_Artio?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/Mr_Artio)
 [![github](https://img.shields.io/github/followers/MrArtio?logo=github&style=plastic)](https://github.com/MrArtio?tab=followers)
 
-- 💬 Ask me about Go, Python, Java, Html, CSS and js.
+- 💬 Ask me about Go, Python, Java, Html and css
 - 📫 How to reach me: [@Mr_Artio](https://twitter.com/Mr_Artio)
 
 <!--
