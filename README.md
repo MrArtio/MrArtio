@@ -1,12 +1,6 @@
 ### Hi there 👋
 
 [![wakatime](https://wakatime.com/badge/user/c87b4f82-d14c-4735-bf74-da24e9289afa.svg)](https://wakatime.com/@c87b4f82-d14c-4735-bf74-da24e9289afa)
-[![twitter](https://img.shields.io/twitter/follow/Mr_Artio?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/Mr_Artio)
-[![github](https://img.shields.io/github/followers/MrArtio?logo=github&style=plastic)](https://github.com/MrArtio?tab=followers)
-
-- 💬 Ask me about Go, Python, Java, Html and css.
-- 📫 How to reach me: [@Mr_Artio](https://twitter.com/Mr_Artio)
-
 <!--
 **alanhamlett/alanhamlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
