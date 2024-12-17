@@ -1,5 +1,7 @@
 ### Programming Time! 😎
 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrArtio&theme=nord&langs_count=10)](https://wakatime.com/@MrArtio)
+
 [![wakatime](https://wakatime.com/badge/user/c87b4f82-d14c-4735-bf74-da24e9289afa.svg)](https://wakatime.com/@c87b4f82-d14c-4735-bf74-da24e9289afa)
 <!--
 **alanhamlett/alanhamlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
